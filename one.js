@@ -1,3 +1,4 @@
 export const demo = {
-    te: 1
+    te: 1,
+    test: 3
 }
